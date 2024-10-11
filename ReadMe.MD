@@ -9,3 +9,5 @@ my_env\Scripts\activate
 3. pip install -r requirements.txt
 
 4. python privategpt.py
+
+
