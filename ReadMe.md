@@ -3,6 +3,8 @@
 ![PrivateGPT Light Mode](https://github.com/user-attachments/assets/580dd5cf-1d2b-4f8f-b363-a259d1af14c5)
 
 
+# Setup 
+
 1. setup environment
 
 python -m venv my_env
